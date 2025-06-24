@@ -1,0 +1,23 @@
+#EXTM3U
+
+# Turkey Channels - from iptv-org
+#EXTINF:-1 tvg-id="tr.trt1" tvg-name="TRT 1" group-title="Turkey",TRT 1
+https://iptv-org.github.io/iptv/channels/trt1.m3u8
+
+#EXTINF:-1 tvg-id="tr.kanald" tvg-name="Kanal D" group-title="Turkey",Kanal D
+https://iptv-org.github.io/iptv/channels/kanald.m3u8
+
+#EXTINF:-1 tvg-id="tr.showtv" tvg-name="Show TV" group-title="Turkey",Show TV
+https://iptv-org.github.io/iptv/channels/showtv.m3u8
+
+#EXTINF:-1 tvg-id="az.itv" tvg-name="İTV" group-title="Azerbaijan",İTV
+https://iptv-org.github.io/iptv/channels/itv.m3u8
+
+#EXTINF:-1 tvg-id="az.aztv" tvg-name="AzTV" group-title="Azerbaijan",AzTV
+https://iptv-org.github.io/iptv/channels/aztv.m3u8
+
+#EXTINF:-1 tvg-id="int.bbc" tvg-name="BBC World News" group-title="International",BBC World News
+https://iptv-org.github.io/iptv/channels/bbcworldnews.m3u8
+
+#EXTINF:-1 tvg-id="int.cnn" tvg-name="CNN International" group-title="International",CNN International
+https://iptv-org.github.io/iptv/channels/cnninternational.m3u8
